@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Demo permission set for Gearset demonstration and documentation.</description>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Opportunity.Demo_Field_1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Demo Permission Set</label>
+</PermissionSet>
