@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Demo_Gearset_1__c</fullName>
-    <description>This is a demo field created for Gearset demo. Updating description again.</description>
+    <fullName>Test_20240328__c</fullName>
+    <description>Test field to test Gearset functionality.</description>
     <externalId>false</externalId>
-    <label>Demo Gearset 1</label>
+    <label>Test 20240328</label>
     <length>255</length>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
